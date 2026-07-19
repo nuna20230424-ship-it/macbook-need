@@ -1,0 +1,14 @@
+# 맥북 필수 무료 앱 매니페스트 (agent가 읽어서 자동 설치)
+# 형식:  cask토큰 | 표시이름 | 한줄설명
+# '#' 로 시작하는 줄과 빈 줄은 무시됩니다. 앱 추가/삭제는 이 파일만 편집하세요.
+
+raycast            | Raycast            | 런처·검색·클립보드·스니펫 (Spotlight 대체)
+rectangle          | Rectangle          | 단축키/드래그로 창 정렬 (Magnet 무료 대체)
+maccy              | Maccy              | 가벼운 클립보드 히스토리 관리
+alt-tab            | AltTab             | 윈도우식 Alt-Tab 창 썸네일 전환
+stats              | Stats              | 메뉴바 CPU/RAM/네트워크/온도 모니터
+monitorcontrol     | MonitorControl     | 외부 모니터 밝기·볼륨 제어
+iina               | IINA               | 거의 모든 포맷 재생하는 미디어 플레이어
+keka               | Keka               | 7z/zip/tar 등 압축·해제 도구
+bitwarden          | Bitwarden          | 오픈소스 비밀번호 관리자
+visual-studio-code | Visual Studio Code | 세계에서 가장 널리 쓰는 코드 에디터
